@@ -1,5 +1,5 @@
 /**
- * Stalker Github 
+ * Telegram Account & Channel Mass-Report / Ban Client
  * Author: ZamXDEV, Zamxyy
  * Channel : https://whatsapp.com/channel/0029VbDtt8vISTkP8L5PKG3f
  */
