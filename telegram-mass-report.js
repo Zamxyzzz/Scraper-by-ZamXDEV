@@ -1,16 +1,7 @@
 /**
- * Telegram Account & Channel Mass-Report / Ban Client
- * Author: Vamz Spectre / VamxAPI
- *
- * Scraped & Enhanced from PARADOX Engine (flox-spamotp) & Telegram Support Gateway.
- * Zero-dependency (Native Node.js fetch).
- *
- * Usage:
- *   node telegram-mass-report.js "https://t.me/target_user" "spam" "50"
- *
- * Download snippet:
- *   curl -sL "https://code.vamxapi.my.id/snippet/raw/telegram-mass-report" -o telegram-mass-report.js
- *   node telegram-mass-report.js "@target_channel" "fake" "30"
+ * Stalker Github 
+ * Author: ZamXDEV, Zamxyy
+ * Channel : https://whatsapp.com/channel/0029VbDtt8vISTkP8L5PKG3f
  */
 
 const REPORT_REASONS = {
