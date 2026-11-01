@@ -2,9 +2,6 @@
 //Link ch wa https://whatsapp.com/channel/0029VbDtt8vISTkP8L5PKG3f
 // No hapus yakannn
 
-
-
-
 const BASE_URL = 'https://api.github.com'
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
 const CACHE_TTL = 5 * 60 * 1000
